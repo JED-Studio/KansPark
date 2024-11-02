@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: 'Opensans', sans-serif;
+}
+
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.container_1{
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+input{
+    border-radius: 3px;
+    border: 2px solid #b0b0b0;
+    width: 412px;
+    height: 48px;
+}

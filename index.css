@@ -41,6 +41,22 @@ a{
     height: 36px;
 }
 
+.kanspark__header-content_wrapper{
+    display: flex; 
+    gap: 99px; 
+    align-items: center;
+}
+
+.kanspark__links{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.kanspark__links_wrapper{
+    display: flex; 
+    gap: 8px;
+}
 
 .kanspark__search{
     margin-top: 34px;
